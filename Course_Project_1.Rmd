@@ -1,0 +1,27 @@
+---
+title: "Leaflet Test"
+author: "Jonathan Giraldo Duran"
+date: "2022-10-19"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## My Leaflet Map
+
+```{r}
+library(leaflet)
+df <- data.frame(
+  "lat" = c(51.97811445706006, 51.968099717633066, 51.95840835568015, 51.972378886822476),
+  "lng" = c(7.577061935883778, 7.57833866771677, 7.625524087008086, 7.596344671589409)) %>%
+  leaflet() %>%
+  addTiles() %>%
+  addMarkers(popup = c("Home", "Best Currywurst Place in Münster", "Work", "Gym"))
+df
+
+```
+
+
+
