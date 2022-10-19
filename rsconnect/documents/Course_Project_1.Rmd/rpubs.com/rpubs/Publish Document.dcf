@@ -1,0 +1,11 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/958739/5e156fb13b66416e9d4486958899142c
+bundleId: https://api.rpubs.com/api/v1/document/958739/5e156fb13b66416e9d4486958899142c
+url: http://rpubs.com/joneithan/958739
+when: 1666191109.35855
+lastSyncTime: 1666191109.35857

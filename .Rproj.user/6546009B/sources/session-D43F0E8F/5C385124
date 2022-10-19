@@ -3,7 +3,7 @@
     "path": "~/Documents/R Projects/Developing Data Products Course Project 1/Course_Project_1.Rmd",
     "project_path": "Course_Project_1.Rmd",
     "type": "r_markdown",
-    "hash": "3146543089",
+    "hash": "2704238654",
     "contents": "",
     "dirty": false,
     "created": 1666189658904.0,
@@ -13,16 +13,16 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "14,16",
+        "cursorPosition": "11,13",
         "scrollLine": "7",
         "last_setup_crc32": "D43F0E8Fc4e2d899"
     },
     "folds": "",
-    "lastKnownWriteTime": 1666190296,
+    "lastKnownWriteTime": 1666191103,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1666190296780,
+    "last_content_update": 1666191103049,
     "read_only": false,
     "read_only_alternatives": []
 }
